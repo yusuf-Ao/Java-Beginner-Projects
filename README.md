@@ -1,6 +1,5 @@
-# AndroidStuffs
+# Java Beginners Project
 
-![platform](https://img.shields.io/badge/PLATFORM-Android-blue)
 [![GitHub license](https://img.shields.io/badge/LICENSE-MIT-brightgreen)](LICENSE)
 
 
