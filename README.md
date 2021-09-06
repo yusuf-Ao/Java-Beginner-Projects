@@ -4,10 +4,7 @@
 
 
 Hi, this repository contains real world projects for a beginner to practice the concepts and fundamentals of java programming.
-If you like my work, and would like to see more content you can follow me here -
-Also, feel free to follow me on Instagram [**@ay.codes**](https://www.instagram.com/ay.codes/).
     
-
 ## Connect with me 👇🏻
 
 [![Instagram](https://raw.githubusercontent.com/yusuf-Ao/Android-Stuffs/master/SimpleAnimations/Images/instagram.png)](https://www.instagram.com/ay.codes/) 
