@@ -1,46 +1,8 @@
-# Java Beginners Project
+# Battleship Game
 
 [![GitHub license](https://img.shields.io/badge/LICENSE-MIT-brightgreen)](LICENSE)
 
-
-Hi, this repository contains real world projects for a beginner to practice the concepts and fundamentals of java programming.
-    
-## Connect with me 👇🏻
-
-[![Instagram](https://raw.githubusercontent.com/yusuf-Ao/Android-Stuffs/master/SimpleAnimations/Images/instagram.png)](https://www.instagram.com/ay.codes/) 
-
-
-##  Simple Tic-Tac-Toe
-
-##### Project Description
-- The game starts by printing an empty grid. It then prompts the user to enter the cell coordinates to make his move.
-- The first player has to play as X and their opponent plays as O.
-- The first cell has the coordinates (1, 1) and the last cell has the coordinates (3, 3)
-- The first coordinate goes from top to bottom and the second coordinate goes from left to right. Also note that coordinates start with 1 and can be 1, 2, or 3.
-  (1, 1) (1, 2) (1, 3)
-  (2, 1) (2, 2) (2, 3)
-  (3, 1) (3, 2) (3, 3)
-- The game ends when someone wins or there is a draw.
-
-![Tic-Tac-Toe](https://github.com/yusuf-Ao/Java-Beginner-Projects/blob/main/Simple%20Tic-Tac-Toe/tic-tac-toe.JPG)
-
-[**Link for Code**](https://github.com/yusuf-Ao/Java-Beginner-Projects/blob/main/Simple%20Tic-Tac-Toe/Main.java)
-
-
 ---
-##  Simple Coffee Machine
-
-##### Project Description
-- A simple implementation of a coffee machine, virtual coffee, of course. In this project, I implemented functionality that simulates a real coffee machine. It can run out of milk, it can run out of coffee beans, it can make different varieties of coffee, and it can take the money for making a coffee.
-- This program will help you practice more on methods and conditionals. 
-- Try exploring what it can do.. I bet it'll make you a coffee 😜
-
-![Coffee Machine](https://github.com/yusuf-Ao/Java-Beginner-Projects/blob/main/CoffeeMachine/coffeemachine.JPG)
-
-[**Link for Code**](https://github.com/yusuf-Ao/Java-Beginner-Projects/blob/main/CoffeeMachine/Main.java)
-
----
-##  BattleField Game
 
 ##### Project Description
 Battleship (also called Battleships or Sea Battle) is a two-player strategy game whose history traces back to the First World War. There are different variations of the Battleship game, but we will stick to the original rules written by Milton Bradley. You have a 10×10 game field and five ships to arrange on that field. The ships can be placed horizontally or vertically but not diagonally across the grid spaces; the ships should not cross or touch each other. The goal is to sink all the ships of the opponent before your opponent does this to you.You can read more on the rules of the game here - https://en.wikipedia.org/wiki/Battleship_(game).
@@ -62,7 +24,6 @@ In this project, we get the chance to practice on topics like, Inheritance, Abst
 ![BattleField](https://github.com/yusuf-Ao/Java-Beginner-Projects/blob/main/Battleship/SampleOutput.JPG)
 
 [**Link for Code**](https://github.com/yusuf-Ao/Java-Beginner-Projects/tree/main/Battleship)
-
 
 
 ---
